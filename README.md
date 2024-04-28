@@ -1,4 +1,4 @@
-just me and my algorithm.
+if i'm not good at it anymore, may i lose my interest?
 
 <!--
 **205Asura/205Asura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
