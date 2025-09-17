@@ -9,5 +9,6 @@ I'm currently studying Computer Engineering at Ho Chi Minh City University of Te
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
  
- <img width="90" alt="image" src="https://github.com/user-attachments/assets/70c675ea-2d25-4e08-b1e9-cfe0dddf0e37">
+ <img width="50" alt="image" src="https://github.com/user-attachments/assets/b4a344bd-c73f-40f3-b7e7-1e576ba00b4e" />
+
 
